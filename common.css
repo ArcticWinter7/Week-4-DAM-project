@@ -1,1 +1,29 @@
-/* footer code */
+/* items code */
+.main_items_class{
+    margin: auto;
+    width: 80%;
+    border: 2px solid black;
+    padding: 0px;
+}
+
+.individual_items_class{
+    margin: auto;
+    display: inline;
+    width: 100%;
+    border: 0px solid black;
+    padding: 0px;
+}
+.individual_items_class img{
+    position: relative;
+    display: inline;
+    top: 0%;
+    left: 0%;
+    height: 400px;
+    width: 400px;
+}
+.individual_items_class p{
+    position: relative;
+    display: inline;
+    top: 0%;
+    left: 0%;
+}
